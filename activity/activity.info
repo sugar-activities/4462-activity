@@ -1,0 +1,7 @@
+[Activity]
+name = Minecraft
+service_name = org.x.Minecraft
+icon = Minecraft
+activity_version = 1
+show_launcher = yes
+exec = sugarMinecraft
